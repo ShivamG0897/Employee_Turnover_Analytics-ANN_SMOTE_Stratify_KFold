@@ -9,14 +9,13 @@ As the ML Developer assigned to the HR Department, you have been asked to create
 Data was modified from: https://www.kaggle.com/liujiaqi/hr-comma-sepcsv
 
 Column Description:
-satisfaction_level - satisfaction level at the job of an employee
-last_evaluation - Rating between 0 to 1, received by an employee at his last evaluation
-number_project	Number of projects, an employee involved in
-average_montly_hours	Average number of hours in a month, spent by an employee at office
-time_spend_company	Number of years spent in the company
-Work_accident	0 - no accident during employee stay, 1 - accident during employee stay
-left	0 indicates employee stays in the company, 
-1 indicates - employee left the company
-promotion_last_5years	Number of promotions in his stay
-Department	Department, an employee belongs to
-salary	Salary in USD
+1. satisfaction_level - satisfaction level at the job of an employee
+2. last_evaluation - Rating between 0 to 1, received by an employee at his last evaluation
+3. number_project	Number of projects, an employee involved in
+4. average_montly_hours	Average number of hours in a month, spent by an employee at office
+5. time_spend_company	Number of years spent in the company
+6. Work_accident - 0 - no accident during employee stay, 1 - accident during employee stay
+7. left -	0 indicates employee stays in the company, 1 indicates - employee left the company
+8. promotion_last_5years	- Number of promotions in his stay
+9. Department -	Department, an employee belongs to
+10. salary - Salary in USD
